@@ -42,10 +42,7 @@ const verbs = shuffle([
     new Verb("PEDIR", {
         present: ["pido", "pides", "pide", "pedimos", "pedis", "piden"]
     }),
-    new Verb("PEDIR", {
-        present: ["pido", "pides", "pide", "pedimos", "pedis", "piden"]
-    }),
-    new Verb("PENCER", {
+    new Verb("PONER", {
         present: ["pongo", "pones", "pone", "ponemos", "poneis", "ponen"]
     }),
     new Verb("VER", {
