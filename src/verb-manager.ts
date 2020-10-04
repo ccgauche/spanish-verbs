@@ -31,7 +31,7 @@ const verbs = shuffle([
         present: ["tengo", "tienes", "tiene", "tenemos", "teneis", "tienen"]
     }),
     new Verb("VENIR", {
-        present: ["vengo", "vienes", "viene", "venemos", "venis", "vienen"]
+        present: ["vengo", "vienes", "viene", "venimos", "venis", "vienen"]
     }),
     new Verb("SALIR", {
         present: ["salgo", "sales", "sale", "salemos", "salis", "salen"]
